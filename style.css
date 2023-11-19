@@ -516,6 +516,11 @@ header {
 
 @media(min-width: 1440px) {
 
+    .third-section-img-desktop {
+        top: -170px;
+        left: -50px;
+        max-width: 600px;
+    }
 
     .fourth-section-img {
         position: absolute;
