@@ -15,7 +15,7 @@ This is been deployed on a free hosting service!
 <img width="450" height="250" src="https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/3e39106b-4954-42df-a198-98c5746ba264" style="vertical-align: top;" />
 <img width="450" height="250" src="https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/7bd513d8-ea59-4332-915d-589fbe7b8a82" style="vertical-align: top;" />
 <img width="450" height="250" src="https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/da10e242-ff7e-42e2-8aa5-fdea8d90084f" style="vertical-align: top;" />
-<img width="450" height="250" src="[https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/8c28926b-065b-4b45-ae1f-db81319e3c9](https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/8a3e9fef-7bc6-48a9-8204-8166a5417177)" style="vertical-align: top;" />
+<img width="450" height="250" src="https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/8a3e9fef-7bc6-48a9-8204-8166a5417177" style="vertical-align: top;" />
 <img width="450" height="250" src="https://github.com/Jerome-study/Blogr-landing-page/assets/119875460/d2fca661-cd25-4779-afec-839124b78349" style="vertical-align: top;" />
   </div>
 </div>
